@@ -16,7 +16,6 @@ const GetStarted = () => (
           </p>
           
       </div>
-      GetStarted
     </div>
   )
 
